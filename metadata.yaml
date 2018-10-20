@@ -1,5 +1,5 @@
 _repo: Cleopatra-Volume-03_5475
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Cleopatra, Queen of Egypt, -30 B.C. -- Fiction'
 - !lcsh 'Biographical fiction'
 - !lcsh 'Queens -- Egypt -- Fiction'
+- GITenberg
 title: Cleopatra — Volume 03
 url: http://www.gutenberg.org/ebooks/5475
